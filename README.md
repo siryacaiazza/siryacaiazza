@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 -->
 🎓 MSc student in Artificial Intelligence for Science and Technology @ Università degli Studi di Milano-Bicocca (final year) \
 🎓 BSc in Computer Science @ Università degli Studi di Milano-Bicocca
-
+----------------------------
 I'm a Mathematics graduate specialising in AI, with a strong foundation in applied mathematics, software engineering and statistics. My master's programme has deepened my expertise in machine learning, deep learning, and the application of AI to complex real-world problems — from medical imaging to environmental applications.
-
+---------------------------
 ## Projects
 
 | Project | Description | 
+|----------|------------|
 | [Emotion Detector](https://github.com/siryacaiazza/emotion-detector) | An accurate emotion classifier for .wav audio files using both state-of-the-arts ResNet18 and a custom build CNN. |
 | [Breast Cancer Segmentation](https://github.com/siryacaiazza/breast_cancer_segmentation) | An end-to-end AI-powered web application for breast ultrasound analysis, combining deep learning detection, segmentation, and classification to support clinical decision-making. |
 | [Lung Segmentation](https://github.com/siryacaiazza/lung_segmentation) | This project tackles the problem of automated lung segmentation from thoracic CT scans — a critical task in radiation therapy planning, where accurate organ delineation directly impacts treatment quality and patient safety. | 
