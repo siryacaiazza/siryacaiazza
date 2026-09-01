@@ -41,7 +41,7 @@ I'm a Mathematics graduate specialising in AI, with a strong foundation in appli
 ## 📚 Areas of Interest
 Medical Image Analysis & Segmentation \
 Deep Learning & Computer Vision \
-AI for Science & Complex Systems \
+AI for Science & Complex Systems 
 
 ## Get in touch!
 
