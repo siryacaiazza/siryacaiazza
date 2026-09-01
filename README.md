@@ -1,4 +1,4 @@
-## Hi, I'm Sirya! 👋
+## Hi, I'm Sirya Caiazza! 👋
 
 <!--
 **siryacaiazza/siryacaiazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,6 +42,10 @@ I'm a Mathematics graduate specialising in AI, with a strong foundation in appli
 🩻 Medical Image Analysis & Segmentation
 🤖 Deep Learning & Computer Vision
 🔬 AI for Science & Complex Systems
+
+## Get in touch!
+
+You can contact me at this [link](https://www.linkedin.com/in/sirya-caiazza-37563423b/)
 
 ---------
 Currently completing my master's thesis — always open to interesting projects and collaborations!
