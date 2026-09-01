@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 🎓 MSc student in Artificial Intelligence for Science and Technology @ Università degli Studi di Milano-Bicocca (final year) \
-🎓 BSc in Computer Science @ Università degli Studi di Milano-Bicocca
+🎓 BSc in Mathematics @ Università degli Studi di Napoli Federico II
 ****
 I'm a Mathematics graduate specialising in AI, with a strong foundation in applied mathematics, software engineering and statistics. My master's programme has deepened my expertise in machine learning, deep learning, and the application of AI to complex real-world problems — from medical imaging to environmental applications.
 ****
