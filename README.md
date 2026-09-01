@@ -21,26 +21,20 @@ I'm a Mathematics graduate specialising in AI, with a strong foundation in appli
 ## Projects
 
 | Project | Description | 
-|------|-----|
 | [Emotion Detector](https://github.com/siryacaiazza/emotion-detector) | An accurate emotion classifier for .wav audio files using both state-of-the-arts ResNet18 and a custom build CNN. |
-|------|-----|
 | [Breast Cancer Segmentation](https://github.com/siryacaiazza/breast_cancer_segmentation) | An end-to-end AI-powered web application for breast ultrasound analysis, combining deep learning detection, segmentation, and classification to support clinical decision-making. |
-|------|-----|
 | [Lung Segmentation](https://github.com/siryacaiazza/lung_segmentation) | This project tackles the problem of automated lung segmentation from thoracic CT scans — a critical task in radiation therapy planning, where accurate organ delineation directly impacts treatment quality and patient safety. | 
-|------|-----|
 | [Food Classification](https://github.com/siryacaiazza/ifood2019_project) | The project investigates whether pretraining an encoder through a denoising autoencoder can improve downstream classification performance when compared with a fully supervised model, while keeping both models below 5 million trainable parameters. |
-| ------- | ----- | 
 | [Star Segmentation](https://github.com/siryacaiazza/star_segmentation)| The project investigates whether training a segmentation model on synthetically generated astronomical images, followed by fine-tuning on real observations, can provide a viable alternative to training exclusively on real astronomical data.|
-|-----|-----|
 |[DMN identification](https://github.com/siryacaiazza/DMN_identification)| This project consists of identification of Default Mode Network (DMN) components from fMRI data using machine learning and deep learning approaches. |
 
 ## 🛠️ Technologies & Tools
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=orange)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16-orange?logo=tensorflow&logoColor=blue)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch&logoColor=green)](https://pytorch.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.9-F7931E?logo=scikitlearn&logoColor=red)](https://scikit-learn.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=red)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=orange)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=green)](https://pytorch.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=blue)](https://scikit-learn.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
 
 ## 📚 Areas of Interest
 🩻 Medical Image Analysis & Segmentation
