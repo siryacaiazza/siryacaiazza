@@ -39,9 +39,9 @@ I'm a Mathematics graduate specialising in AI, with a strong foundation in appli
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
 
 ## 📚 Areas of Interest
-🩻 Medical Image Analysis & Segmentation
-🤖 Deep Learning & Computer Vision
-🔬 AI for Science & Complex Systems
+Medical Image Analysis & Segmentation \
+Deep Learning & Computer Vision \
+AI for Science & Complex Systems \
 
 ## Get in touch!
 
